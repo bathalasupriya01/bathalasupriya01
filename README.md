@@ -41,5 +41,5 @@ Python | Pandas | NumPy | Scikit-learn | Matplotlib | Machine Learning
 ---
 
 ## Connect With Me
-Kaggle: https://kaggle.com  
-LinkedIn: add-your-link
+Kaggle: https://www.kaggle.com/supriyabathala
+LinkedIn: www.linkedin.com/in/supriya-bathala
