@@ -1,4 +1,4 @@
-# Hi, I'm Supriya Bathala 👋
+# Hi, I'm Supriya Bathala 
 
 MSc Computer Science student interested in **Data Science, Analytics, and Machine Learning**.  
 I enjoy building data-driven solutions that solve real business problems.
